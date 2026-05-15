@@ -1,7 +1,7 @@
 👋 Hi, I’m @reva1804,
 I recently graduated from IISER Tirupati with a master's in biology.
 For my master's thesis, I worked on aquatic insect microbiomes at MPI for Chemical Ecology,
-I am seeking PhD opportunities in ecology and evolution, emphasizing microbiomes or metabarcoding.
+I am seeking PhD opportunities in ecology.
 You can reach me at revat@students.iisertirupati.ac.in or reva.t.infnity@gmail.com.
 
 <!---
